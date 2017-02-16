@@ -13,4 +13,9 @@
   (fp_line (start -1.6 -2) (end 1.5 -2) (layer F.SilkS) (width 0.2))
   (pad 1 thru_hole circle (at -1.7 0) (size 1.2 1.2) (drill 0.6) (layers *.Cu *.Mask F.SilkS))
   (pad 2 thru_hole circle (at 1.7 0) (size 1.2 1.2) (drill 0.6) (layers *.Cu *.Mask F.SilkS))
+  (model /home/amr/Documentos/KiCad/kicad-3d-modules/Sensores/LDR_TOKEN_PGM5_Series.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 0.3937 0.3937 0.3937))
+    (rotate (xyz 0 0 0))
+  )
 )
